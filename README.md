@@ -10,3 +10,4 @@ Buy your favorite Amazon item with one click of this chrome extension!
 6. Go to the extension options and enter the url of your favorite item.
 7. Click the icon!
 
+*The product must have a one-click buy option that is enabled on your browser
