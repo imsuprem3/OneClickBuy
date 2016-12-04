@@ -1,1 +1,1 @@
-document.getElementById('add-to-cart-button').click();
+document.getElementById('oneClickBuyButton').click();
