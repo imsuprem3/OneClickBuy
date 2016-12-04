@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="options.css">
+<head><title>My Test Extension Options</title></head>
+<body>
+
+
+<div>
+<form class = "center-text" id="sub" action="action_page.php">
+  <img src="http://31.media.tumblr.com/a5a1d1674e03cb144450fbc9f3b0bd3b/tumblr_mx85z3CkjP1ru5h8co1_500.gif">
+<h1 >Enter whatever Amazon URL you would like to instantly purchase from!</h1><br>
+<input type="text" id="link" name="search" value="amazon.com/example">
+<input type="submit"  value="Submit">
+</form>
+</div>
+<script> document.getElementById("url").innerHTML = localStorage.amazon; </script>
+<script src="jquery-3.1.1.js"></script>
+<script src="options.js"></script>
+
+</body>
+</html>
