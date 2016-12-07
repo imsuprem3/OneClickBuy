@@ -7,7 +7,9 @@ Buy your favorite Amazon item with one click of this chrome extension!
 3. Go to my tools -> extensions
 4. Enable developer mode at the top right of the page
 5. Press load unpacked extension and select the unzipped folder
-6. Go to the extension options and enter the url of your favorite item.
+6. Go to the extension options and enter the url of your favorite item*
 7. Click the icon!
 
 *The product must have a one-click buy option that is enabled on your browser
+
+*This extension is offered under the [MIT License](https://github.com/imsuprem3/OneClickBuy/blob/master/LICENSE)*
